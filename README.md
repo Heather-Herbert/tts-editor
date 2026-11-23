@@ -32,3 +32,7 @@ Then start the app with `./run.sh`.
 
 The app lists every `.onnx` voice in `voices/`. To add more voices, download them with the same command. The voice list is at
 https://huggingface.co/rhasspy/piper-voices. Examples: `en_US-lessac-medium`, `en_GB-northern_english_male-medium`.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE). It uses [Piper](https://github.com/OHF-Voice/piper1-gpl), which is also licensed under GPL-3.0.

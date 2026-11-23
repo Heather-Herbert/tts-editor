@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """TTS Editor: a small text editor that can read its contents aloud with Piper TTS."""
+# SPDX-License-Identifier: GPL-3.0-or-later
 
 import queue
 import re
