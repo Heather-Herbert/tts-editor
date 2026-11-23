@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+# Voice models are large (~60 MB each); download them with the command in README.md
+voices/*
+!voices/.gitkeep
+*.mp3
+*.part
